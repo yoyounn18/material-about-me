@@ -1,0 +1,17 @@
+.footer {
+    width: 100vw;
+    height: 7vw;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: gray;
+}
+
+.footer-copyright {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: gray;
+}

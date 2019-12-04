@@ -1,0 +1,24 @@
+.hover-btn {
+    width: 25vw;
+    height: 25vh;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hover-btn {
+    display: block;
+    width: 25vw;
+    height: 25vh;
+}
+
+.hover-inner {
+    background-color: black;
+    width: 25vw;
+    height: 25vh;
+    opacity: 0.5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

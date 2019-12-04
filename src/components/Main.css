@@ -1,0 +1,18 @@
+.main-main {
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.git-blog-btn {
+    width: 100vw;
+    height: 30vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
